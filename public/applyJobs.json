@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "Software Engineer",
+        "company": "Google",
+        "job_type": "On-site",
+        "type": "Full-Time",
+        "location": "Mountain View, CA",
+        "salary": "$100,000 - $150,000",
+        "logo": "https://www.logo.wine/a/logo/Google/Google-Logo.wine.svg"
+    },
+    {
+        "id": 2,
+        "title": "Frontend Developer",
+        "company": "Netflix",
+        "job_type": "Remote",
+        "type": "Full-Time",
+        "location": "Amsterdam, Netherlands",
+        "salary": "$90,000 - $120,000",
+        "logo": "https://www.logo.wine/a/logo/Netflix/Netflix-Logo.wine.svg"
+    },
+    {
+        "id": 3,
+        "title": "Data Scientist",
+        "company": "Facebook",
+        "job_type": "On-site",
+        "type": "Full-Time",
+        "location": "Menlo Park, CA",
+        "salary": "$110,000 - $160,000",
+        "logo": "https://www.logo.wine/a/logo/Facebook/Facebook-Logo.wine.svg"
+    },
+    {
+        "id": 4,
+        "title": "DevOps Engineer",
+        "company": "Amazon",
+        "job_type": "On-site",
+        "type": "Part-Time",
+        "location": "Seattle, WA",
+        "salary": "$95,000 - $140,000",
+        "logo": "https://www.logo.wine/a/logo/Amazon_(company)/Amazon_(company)-Logo.wine.svg"
+    },
+    {
+        "id": 5,
+        "title": "Backend Developer",
+        "company": "Microsoft",
+        "job_type": "Remote",
+        "type": "Part-Time",
+        "location": "North Sydny, Australia",
+        "salary": "$100,000 - $150,000",
+        "logo": "https://www.logo.wine/a/logo/Microsoft/Microsoft-Logo.wine.svg"
+    },
+    {
+        "id": 6,
+        "title": "UI/UX Designer",
+        "company": "Adobe",
+        "job_type": "Remote",
+        "type": "Part-Time",
+        "location": "California, US",
+        "salary": "$70,000 - $100,000",
+        "logo": "https://www.logo.wine/a/logo/Adobe_Inc./Adobe_Inc.-Logo.wine.svg"
+    },
+    {
+        "id": 7,
+        "title": "Machine Learning Engineer",
+        "company": "Apple",
+        "job_type": "On-site",
+        "type": "Full-Time",
+        "location": "Cupertino, CA",
+        "salary": "$120,000 - $170,000",
+        "logo": "https://www.logo.wine/a/logo/Apple_Inc./Apple_Inc.-Logo.wine.svg"
+    },
+    {
+        "id": 8,
+        "title": "Data Analyst",
+        "company": "Meta",
+        "job_type": "Remote",
+        "type": "Part-Time",
+        "location": "Cupertino, CA",
+        "salary": "$110,000 - $160,000",
+        "logo": "https://www.logo.wine/a/logo/Meta_Platforms/Meta_Platforms-Logo.wine.svg"
+    }
+]
